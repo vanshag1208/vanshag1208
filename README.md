@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Vansh Agarwal</h1>
+<h1 align="center"> Hi, I'm Vansh Agarwal</h1>
 <h3 align="center">Aspiring Data Analyst | AI & Data Science Student</h3>
 
 
@@ -35,12 +35,13 @@ Currently seeking **Data Analyst Internship / Entry-Level Data Analyst roles**.
 
 
 
+
 ## 📊 GitHub Stats:
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshag1208&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=vanshag1208&show_icons=true&theme=radical" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vanshag1208&theme=radical)
+<img src="https://streak-stats.demolab.com?user=vanshag1208&theme=radical" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshag1208&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshag1208&layout=compact&theme=radical" />
 
 
 
