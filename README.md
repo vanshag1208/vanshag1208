@@ -52,9 +52,13 @@ Currently seeking **Data Analyst Internship / Entry-Level Data Analyst roles**.
 - 📊 Capital Insights – Stock Market Analysis  
 - 💳 Financo – Banking Analytics Platform  
 - 🚦 Road Accident Analysis  
-- ☕ Coffee Shop Sales Analysis  
-- 🏪 Store Performance Analysis  
 
+## 🚀 Future Scope:
+- 📈 Mastering Advanced SQL (CTEs, Window Functions, Indexing, Optimization)  
+- 🤖 Learning Machine Learning & AI for predictive analytics  
+- ☁️ Exploring Cloud Platforms (AWS / GCP) for scalable data solutions  
+- 📊 Advanced Power BI (DAX, performance tuning, large datasets)  
+- 🐍 Python for automation and advanced analytics  
 
+⭐ Focused on continuous learning and building industry-ready skills.
 
-⭐ *Turning data into meaningful insights.*
