@@ -54,9 +54,9 @@ Currently seeking **Data Analyst Internship / Entry-Level Data Analyst roles**.
 - 🚦 Road Accident Analysis  
 
 ## 🚀 Future Scope:
-- 📈 Mastering Advanced SQL (CTEs, Window Functions, Indexing, Optimization)  
+- 📈 Mastering Advanced SQL 
 - 🤖 Learning Machine Learning & AI for predictive analytics  
-- ☁️ Exploring Cloud Platforms (AWS / GCP) for scalable data solutions  
+- ☁️ Exploring Cloud Platforms for scalable data solutions  
 - 📊 Advanced Power BI (DAX, performance tuning, large datasets)  
 - 🐍 Python for automation and advanced analytics  
 
