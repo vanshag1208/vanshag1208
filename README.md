@@ -39,11 +39,11 @@ Currently seeking **Data Analyst Internship / Entry-Level Data Analyst roles**.
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vanshag1208&show_icons=true&theme=radical)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanshag1208&theme=radical)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vanshag1208&layout=compact&theme=radical)
+
 
 
 
