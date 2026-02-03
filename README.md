@@ -1,81 +1,63 @@
-<h1 align="center">Hi 👋, I'm Vansh Agarwal</h1>
+<h1 align="center">👋 Hi, I'm Vansh Agarwal</h1>
 <h3 align="center">Aspiring Data Analyst | AI & Data Science Student</h3>
 
 ---
 
 ## 👨‍💻 About Me
 Detail-oriented final-year B.Tech student specializing in **Artificial Intelligence & Data Science** with strong hands-on experience in **SQL, Python, Power BI, and Data Visualization**.  
-I enjoy working with large datasets, building interactive dashboards, and converting raw data into meaningful business insights.  
-Actively seeking **Data Analyst Internship / Entry-Level Data Analyst role**.
+I love analyzing large datasets, building dashboards, and turning raw data into actionable business insights.  
+Currently seeking **Data Analyst Internship / Entry-Level Data Analyst roles**.
 
 ---
 
-## 🧠 Skills
-
-**📊 Analytics:**  
-Data Analysis, Data Cleaning, EDA, Data Modelling, Data Visualization, Dashboard Creation, Business Analysis, Business Insights  
-
-**💻 Programming:**  
-Python, Pandas, NumPy, Matplotlib, Seaborn  
-
-**🛠 Tools:**  
-Git, VS Code, Jupyter Notebook, PyCharm  
-
-**📈 BI & Visualization:**  
-Power BI, Tableau, MS Excel  
-
-**🗄 Databases:**  
-SQL, MySQL, MS SQL  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vansh-agarwal-07b862250)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://vanshag1208.github.io/vansh1208.github.io/)
 
 ---
 
-## 💼 Experience
-**Power BI Virtual Internship – PwC Switzerland (Forage)**  
-- Built Power BI dashboards to visualize KPIs and business metrics  
-- Translated client requirements into meaningful data visualizations  
-- Strengthened skills in data storytelling and dashboard design  
+## 💻 Tech Stack:
+
+### 📊 Analytics & BI  
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
+
+### 🧠 Programming  
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge)
+
+### 🗄 Databases  
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoft-sql-server)
+
+### 🛠 Tools  
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 🚀 Projects
-
-### 📊 Capital Insights – Stock Market Analysis Platform  
-- Processed **2000K+ OHLCV records** using Python (Yahoo Finance API), SQL Server, Power BI  
-- Built Power BI dashboards with DAX measures (returns, % change, moving averages, YTD)  
-- Reduced dashboard load time by **~30%** using SQL indexing  
-- Implemented incremental data ingestion, improving pipeline efficiency by **~40%**
-
-### 💳 Financo – Banking Analytics Platform  
-- Designed analytics system using SQL Server, Python, Power BI (50,000+ transactions)  
-- Implemented credit card business logic (interest, due date, overdue, min due)  
-- Built **15+ interactive Power BI visuals & DAX measures**  
-- Reduced analysis time by **60–70%**  
-- Reduced logical inconsistencies by **90%** through validation & stress testing  
-
-### 🚦 Road Accident Analysis  
-- Built dashboards in Power BI & Excel to analyze accident trends  
-- Created monthly & YoY trend analysis  
-- Improved insight extraction by **25%** for stakeholders  
-
----
-
-## 🏆 Certifications
-- 📜 Data Visualization: Empowering Business with Effective Insights – Tata Group  
-- 📜 Career Essentials in Data Analysis – Microsoft & LinkedIn  
-
----
-
-## 🌐 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINK  
-- 💻 GitHub: https://github.com/vanshag1208  
-- 🌍 Portfolio: YOUR-PORTFOLIO-LINK  
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 ![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshag1208&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vanshag1208&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshag1208&layout=compact&theme=radical)
 
 ---
 
-⭐ *Turning data into business insights.*
+## 🚀 Featured Projects:
+- 📊 Capital Insights – Stock Market Analysis  
+- 💳 Financo – Banking Analytics Platform  
+- 🚦 Road Accident Analysis  
+- ☕ Coffee Shop Sales Analysis  
+- 🏪 Store Performance Analysis  
+
+---
+
+⭐ *Turning data into meaningful insights.*
