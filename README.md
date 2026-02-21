@@ -51,7 +51,7 @@ Currently seeking **Data Analyst Internship / Entry-Level Data Analyst roles**.
 ## 🚀 Featured Projects:
 - 📊 Capital Insights – Stock Market Analysis  
 - 💳 Financo – Banking Analytics Platform  
-- 🚦 Road Accident Analysis  
+- 🚦 Customer Churn Prediction and Analytics System  
 
 ## 🚀 Future Scope:
 - 📈 Mastering Advanced SQL 
